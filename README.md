@@ -10,4 +10,3 @@
 
 ## Képgyűjtés
 - Forrás 
-- [Veresegyház Szentlélek templom](https://veresegyhaz.vaciegyhazmegye.hu/teremto-lelek/)

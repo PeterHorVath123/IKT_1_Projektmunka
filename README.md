@@ -18,4 +18,4 @@
 - [Elavult templom weboldal](https://www.szfvar.katolikus.hu/hirek)
 
 ## Képgyűjtés
-- Forrás 
+- Forrás

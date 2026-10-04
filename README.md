@@ -18,4 +18,6 @@
 - [Elavult templom weboldal](https://www.szfvar.katolikus.hu/hirek)
 
 ## Képgyűjtés
-- Forrás
+- Történetünk x
+- Bögre kávézó
+- Miserend x

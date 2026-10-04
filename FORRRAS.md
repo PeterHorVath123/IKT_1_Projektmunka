@@ -104,3 +104,22 @@ A fületlen Bögre alapító közössége (Marci, Nóri, Meli, Edit, Ottó) és 
 MERT BOLDOGNAK LENNI NEM AZT JELENTI, HOGY MINDEN TÖKÉLETES! 🙂
 
 https://www.facebook.com/fuletlenbogrekavezo/
+
+## Miserend 
+
+Szentségimádások
+Csütörtökön 6.00-18.00, illetve szombaton 18:30-19:30 a Szentlélek templom kápolnájában.
+
+Hétfő: 7-17
+Kedd: 7-12
+Szerda: 7-12
+Csütörtök: 6-18
+Péntek: 7-18
+Szombat: 10-11 (gyermek Szentségimádás minden hónap első vagy második szombatján)
+Szombat: 18.30-19.30
+
+Szombaton, esti rendezvények esetén a Szentségimádás időpontja 21.00-22.00 órára módosul.
+
+## Napi igevers 
+2026. október 4. – Évközi 27. vasárnap (Mt 21,33-43)
+Abban az időben Jézus ezt mondta a főpapoknak és a nép véneinek: Hallgassatok meg egy másik példabeszédet! Volt egy gazdaember, aki szőlőt telepített, bekerítette sövénnyel, belül pedig (a sziklába) taposógödröt vágott, és őrtornyot épített. Aztán rábízta a szőlőt a munkásokra, és elutazott. Amikor eljött a szüret ideje, elküldte szolgáit a szőlőmunkásokhoz, hogy a termést átvegyék. […]

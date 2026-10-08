@@ -1,4 +1,10 @@
 nav ul li {
     display: inline-block;
-    
+}
+
+.hero{
+
+   background-image: url(../IKT_1_Projektmunka/PICS/Bemutatkozás.jpg);
+
+
 }

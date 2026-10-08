@@ -1,4 +1,9 @@
 # FORRÁS
+## Bemutatkozás
+
+„A hit, a közösség és a szeretet otthona Veresegyház szívében.”
+
+Szeretettel köszöntjük a Szentlélek-templom honlapján. Ismerje meg közösségünket, aktuális eseményeinket, miserendünket és lelki programjainkat!
 
 ## TÖRTÉNETÜNK
 Veresegyház már a tatárjárás előtt létezhetett, de akkor elpusztulván, megmaradt vöröstéglás templomáról kapta nevét,

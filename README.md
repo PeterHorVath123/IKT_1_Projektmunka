@@ -1,12 +1,14 @@
 # Brainstroming 
 ## A "megrendelés"
 - A veresegyházi egyházlözösség megkért hogy egy mondernizált weboldalt készítsek az ő közösségük számára
+- [Versegyház Szentlélek templom](https://veresegyhaz.vaciegyhazmegye.hu/)
 ### A weboldal tartala 
-2. Kapcsolatok elérhetőségek
-3. Mise rendek
-4. Szolgálatok és hírdetések
-5. A weboldalon megelenő napi igevers és a templom bemutatása
-6. Kávézónk és közösségeink
+1. Kezdőlap
+1. Történetünk
+2. Miserend
+3. Kávézó(& közösségeink)
+4. Napi imák(napi igevers)
+
 
 ## Az ötlet 
 1. Valami ami Istenhez és Jézushoz fűződik
@@ -21,3 +23,4 @@
 - Történetünk x
 - Bögre kávézó
 - Miserend x
+- Napi imák (Gyűjtés alatt)

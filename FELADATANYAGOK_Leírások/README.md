@@ -24,3 +24,8 @@
 - Bögre kávézó
 - Miserend x
 - Napi imák (Gyűjtés alatt)
+
+## Dokumentácio
+- A navbar elég sok ídőtt vett igénybe 
+- A szöveget a weboldalhoz AI-al generáltam
+- Képeket a Veresegyház Szentlélek Templom oldaláról szedtem

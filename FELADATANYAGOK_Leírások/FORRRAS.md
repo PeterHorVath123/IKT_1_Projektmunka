@@ -112,18 +112,46 @@ https://www.facebook.com/fuletlenbogrekavezo/
 
 ## Miserend 
 
-Szentségimádások
-Csütörtökön 6.00-18.00, illetve szombaton 18:30-19:30 a Szentlélek templom kápolnájában.
+Miserend
+Miserend
 
-Hétfő: 7-17
-Kedd: 7-12
-Szerda: 7-12
-Csütörtök: 6-18
-Péntek: 7-18
-Szombat: 10-11 (gyermek Szentségimádás minden hónap első vagy második szombatján)
-Szombat: 18.30-19.30
+Szeretettel várjuk testvéreinket szentmiséinkre és közös imádságainkra.
 
-Szombaton, esti rendezvények esetén a Szentségimádás időpontja 21.00-22.00 órára módosul.
+Vasárnapi szentmisék
+8:00 - Reggeli szentmise
+10:00 - Ünnepi nagymise
+18:00 - Esti szentmise
+Hétköznapi szentmisék
+Hétfő-Péntek: 18:00
+Szombat: 18:00 (előesti szentmise)
+Gyóntatás
+
+A szentmisék előtt és külön egyeztetett időpontban.
+
+Kérjük, az aktuális változásokról és ünnepi miserendről kövesse hirdetéseinket.
+
+(Ezeket az időpontokat majd a valódi miserenddel kell helyettesíteni.)
+
+Veresegyház
+## Veresegyház
+
+Veresegyház Pest vármegye egyik gyorsan fejlődő városa, amely gazdag történelmi és közösségi hagyományokkal rendelkezik. A város különleges értéke az itt élő emberek összetartó közössége, valamint a természeti és kulturális környezet harmóniája.
+
+A Veresegyházi Szentlélek Templom fontos szerepet tölt be a város vallási és közösségi életében. Templomunk szeretettel fogadja a helyi lakosokat, a környékről érkező híveket és az ide látogató vendégeket egyaránt.
+
+Célunk, hogy a hit, a közösség és a szolgálat értékeit továbbadjuk a következő generációk számára.
+
+A kezdőoldalra nagyon szépen mutatna még egy rövid jelmondat is a fejlécben:
+
+„A hit otthona Veresegyház szívében.”
+
+vagy
+
+„Nyitott kapukkal, nyitott szívvel várunk.”
+
+vagy
+
+„Közösségben Istennel és egymással.” ✨
 
 ## Napi igevers 
 2026. október 4. – Évközi 27. vasárnap (Mt 21,33-43)

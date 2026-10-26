@@ -1,10 +1,16 @@
-nav ul li {
-    display: inline-block;
+*{
+    box-sizing: border-box;
 }
 
-.hero{
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
-   background-image: url(../IKT_1_Projektmunka/PICS/Bemutatkozás.jpg);
+    padding: 20px 50px;
+    background-color: bisque;
+}
 
-
+.nav-bal{
+    display: flex;
 }

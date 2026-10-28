@@ -29,3 +29,10 @@
 - A navbar elég sok ídőtt vett igénybe 
 - A szöveget a weboldalhoz AI-al generáltam
 - Képeket a Veresegyház Szentlélek Templom oldaláról szedtem
+
+## Főoldal
+Segített az Ai ebben is 
+Hasonlóra szertém a Veresi templom oldalához 
+1. Nagy nyitókép Hero image w3school-os kód használatával és átalakításával
+2. Napi ige vers 
+3. Bemutatkozás 

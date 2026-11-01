@@ -71,3 +71,4 @@ Egy reszponzív jól kinéző weboldal létrehozása. Amelyet később tovább t
                     https://gotourist.hu/hu/locations/szentl-eacute-lek-templom-1667
                     https://www.life.church/
 - Sajnálom tanár úr
+- [Github page](https://peterhorvath123.github.io/IKT_1_Projektmunka/)

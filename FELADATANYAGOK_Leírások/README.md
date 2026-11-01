@@ -55,7 +55,9 @@ lábléc
 
 teljes reszponzív kialakítás
 animációk
-tesztelés
+tesztelésív 
+## Cél 
+Egy reszponzív jól kinéző weboldal létrehozása. Amelyet később tovább tudok fejleszteni. Szeretném ha a stílusa hasonló lenne a Life church weboldalához. Később akér animációkkal és újra frissülő napi ige résszél. Szeretném ha könnyen kezelhető lenne és modern.
 ## Dokumentácio
 - Az összes szöveg ami a weblapon megtalálható a FORRAS.md-ben található
 - A weboldal több napon át csináltam valamikor kevesebbet valamikor többet foglalkoztam vele

@@ -21,11 +21,7 @@
 - [A kávézóhoz](https://www.cafecitohouse.com/)
 - [Elavult templom weboldal](https://www.szfvar.katolikus.hu/hirek)
 
-## Képgyűjtés
-- Történetünk x
-- Bögre kávézó
-- Miserend x
-- Napi imák (Gyűjtés alatt)
+
 ## Terv a gyors elkészüléshez
 Amit szintén az Ai adott mert én nem tudtam kitalálni
 ✅ 1. Nap

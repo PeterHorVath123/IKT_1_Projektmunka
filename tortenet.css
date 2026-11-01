@@ -1,17 +1,31 @@
 *{
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
+h2{
+text-align: center;
+
+}
+
+
+#motto{
+
+
+}
+
+
 nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 30px;
     padding: 20px 50px;
-    background-color: #353847;
+    background-color: #F8F5F1 /* krém */ ;
 }
-nav ul li{
-    display:inline-block;
-    text-align: left;
+
+.menu-item{
+    color: #4A3428   /* kávébarna */;
 }
 .nav-bal{
     display: flex;
@@ -22,4 +36,22 @@ nav ul li{
     height: 165px;
     max-width:100%;
     border-radius: 50%;
+}
+
+html{
+    font-family: "proxima_nova";
+    src: url(https://interactivefonts.life.church/proximanova-thin-webfont.woff2) format("woff2"), url(https://interactivefonts.life.church/proximanova-thin-webfont.woff) format("woff"), 
+    url(https://interactivefonts.life.church/proximanova-thin-webfont.ttf) format("truetype");
+    font-size: 18px;
+
+}
+body{
+    background: url(PICS/Szentlelek_templom.webp) no-repeat center / cover;
+}
+
+.container{
+    margin: auto;
+    padding: 25px;
+    background-color: rgba(255, 255, 255, 0.3);
+    color: black;
 }

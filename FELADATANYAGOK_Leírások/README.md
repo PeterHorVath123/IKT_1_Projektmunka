@@ -24,12 +24,47 @@
 - Bögre kávézó
 - Miserend x
 - Napi imák (Gyűjtés alatt)
+## Terv a gyors elkészüléshez
+Amit szintén az Ai adott mert én nem tudtam kitalálni
+✅ 1. Nap
 
+mappastruktúra
+HTML váz
+navigáció
+
+✅ 2. Nap
+
+hero szekció
+bemutatkozás
+történetünk
+
+✅ 3. Nap
+
+miserend
+bögre kávézó
+
+✅ 4. Nap
+
+napi igevers
+kapcsolat
+lábléc
+
+✅ 5. Nap
+
+teljes reszponzív kialakítás
+animációk
+tesztelés
 ## Dokumentácio
 - A navbar elég sok ídőtt vett igénybe 
 - A szöveget a weboldalhoz AI-al generáltam
 - Képeket a Veresegyház Szentlélek Templom oldaláról szedtem
 
+## Színek
+#F8F5F1   /* krém */
+#E6DDD4   /* világos bézs */
+#4A3428   /* kávébarna */
+#2C2C2C   /* sötét szürke */
+#FFFFFF   /* fehér */
 ## őoldali nyitó szakasz
 - Ai által generált szövegek a weboldalhoz
 

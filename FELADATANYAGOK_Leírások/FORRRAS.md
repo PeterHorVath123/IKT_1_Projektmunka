@@ -1,157 +1,124 @@
 # FORRÁS
-## Bemutatkozás
+## őoldali nyitó szakasz
+- Ai által generált szövegek a weboldalhoz
 
-„A hit, a közösség és a szeretet otthona Veresegyház szívében.”
+Főcím
 
-Szeretettel köszöntjük a Szentlélek-templom honlapján. Ismerje meg közösségünket, aktuális eseményeinket, miserendünket és lelki programjainkat!
+Szeretettel várunk a Veresegyházi Szentlélek Templom közösségében
 
-## TÖRTÉNETÜNK
-Veresegyház már a tatárjárás előtt létezhetett, de akkor elpusztulván, megmaradt vöröstéglás templomáról kapta nevét,
-amelyet azután újratelepülése után is megtartott. Tehát ősi falu Pest megyében. Oklevélben először csak 1399-ben említik
-„Weruseghaz” néven (Bakács szerint 1381-ben), ekkor a Pásztói család birtoka volt. Horváth Lajos szerint először
-1375-ben említik. 1426-ban Zsigmond király Miklós váci püspök nővére fiának, Alcsebi István fia Lászlónak és János,
-Miklós, Gáspár és István nevű fiainak a neki adott kölcsön fejében többek között Veresegyház birtokát adja zálogba.
-1430-ban az óbudai káptalan megjárta Veresegyház és Szada határát (az oklevél 10 szomszédos helyet sorol fel). 1430-ban
-Zsigmond király veresegházi birtokát 200 aranyforintért elzálogosítja Miklós váci püspöknek.
+Alcím
 
-1435-ben a Laczkfi család cserébe adja V. László királynak, ő pedig jutalmul Kolos Jeromosnak és Guthi Országh Mihálynak
-adja 1457-ben. Országh Mihály ugyanitt megszerezte Reichel Sebald birtokrészét is. II. Ulászló király 1492-ben a
-Rozgonyiak birtokrészét Farkas Bálint váradi püspöknek adományozta, aki ezt a részt végrendeletében a váradi káptalanra
-hagyta, míg a falu 3/4 részét a váci püspök kapta meg, még Mohács előtt, talán Bakócz Tamás örökösei révén. Tény, hogy
-1529-ben már püspöki birtok. Nem pusztult el a török hódoltság alatt sem, de lakosai kálvinisták lettek, akiknek már
-1626-ban van lelkészük. Buda felszabadulásának évében, valószínűleg a nagy háborús mozgolódás miatt – „deserta”, de már
-1689-ben ismét lakott. Fejlődését még megakasztja a rácok 1707. évi pusztítása, minek következtében 1711-13-ban nincs
-adókivetése sem. A Mária Terézia-féle úrbéri rendezéskor 42 és fél jobbágytelekből 30 és 3/4 telek a váci püspöké. A
-falu csak 1848-ban szűnt meg jobbágyfalu lenni. A község ma is fennáll ősi nevén Pest megyében.
+Egy hely, ahol hitben növekedhetünk, közösségre találhatunk, és együtt fedezhetjük fel Isten szeretetét. Legyen szó első látogatásról vagy hosszú évek óta tartó közösségi életről, nálunk mindig nyitott ajtók és befogadó szívek várnak.
 
-Nevéből következtetve már a tatárjárás előtt templomos falu volt, s templomáról 1492-ből okleveles emlék van, ami
-szerint kőtemploma van, toronnyal. Az 1500-as évek közepérőll egy András nevű papja ismert, tehát plébániája volt. A
-hódoltság alatt temploma a kálvinisták gondozásába került. A falu lakói a templomot jó karban tartották, amint ezt az
-!1653. évi püspöki urbarium is megjegyzi: „temploma bő és jó.” A Pongrácz-féle térképen – kartográfiailag helyesen – fel
-van tüntetve, az Informatio szerint „Calv.” jelzéssel. Dwornikovich jelentésében püspöki falu, jó állapotban lévő
-katolikus templommal , de kálvinista prédikátorral. 1702. évi Canonica Visitatio leírása szerint szentélye és
-sekrestyéje van. Főoltára rámás kép (szárnyasoltár?): „ex imaginibus in ramo”, szószéke kőből van. Tornya a szentély bal
-oldalán áll (amint a Pongrácz-térkép váci másolatán látható). A templomot 1719-ben Althann M. Frigyes püspök
-jelenlétében, Berkes András erélyes fellépése eredményeként visszavették a protestánsoktól, és újjászervezték a
-plébániát. Először csak a váchartyáni plébános adminisztrálta, önálló plébánosai csak a későbbi időkben lettek. 1734-ben
-az Acta Cassae Parochorumban ez áll: Temploma jó állapotban van, de nagyon szűkös, oly annyira, hogy ha az egész
-lakosság katolikus lenne, akkor a harmada sem férne be a templomba. Felszerelése egy réz kehely, egy réz monstrancia,
-egy aranyozott réz cibórium, egy jó állapotban lévő kazula, egy régi kazula, két korporálé, két purifikatorium, más
-nincs. A plébánosnak jó háza van.
-
-Kegyura a váci püspök. A lakosság számához képest kicsi templomot Migazzi püspök 1777-ben lebonttatta: „retento
-Sancutario antiquo” (megtartván a régi szentélyt), hogy felépítsék a mai templomot. Felszentelésére 1778-ban került sor,
-a szentelést Bodonyi Sándor végezte. Többször javították. Főoltárképe értékes, XVIII. századi művészi alkotás. Johann
-Martin Schmidt alkotása. Egy miseruhája a XVII. századból származó, igen szép munka. 1958-tól 1980-ig a templomot
-teljesen felújították. A copf stílusú templom és a barokk Golgota szoborcsoport műemlék jellegű. Titulusa: Árpádházi
-Szent Erzsébet. A plébánia háza 1977-ben épült. Kis terjedelmű, XVIII. századi eredetű plébániai könyvtára van. Historia
-Domusa 1719-ben kezdődik. Canonica Visitatioja 1828-ban kelt, melyet a plébániai levéltár is őriz. Filiái voltak: Szada
-(1931-ben különvált), Erdőkertes (1955-ben vált külön), Őrszentmiklós és Őrbottyán (2009-ben különváltak).
-
-## BÖGRE KÁVÉZÓ
-A Fületlen Bögre egy vendégszerető kávézó a Szentlélek-templomban. Egy hely, ahol lelassul az idő és a pillanatok megtelnek érzéssel.
- 
-Fületlen Bögre Nonprofit Kft.
-2112 Veresegyház Szentlélek tér 1-3.
-Ügyvezető igazgató: Nagy Zsolt
-Nyitvatartás:
-
-hétfő: 15:00 – 19:00
-kedd: 15:00 – 19:00
-szerda: 15:00 – 19:00
-csütörtök: ZÁRVA
-péntek: 15:00 – 19:00
-szombat: ZÁRVA
-vasárnap: 9:00 – 11:30; 17:00 – 20:00
-
- 
-
-Túrmezei Erzsébet: Fületlen Bögre
-
-Ma este elmosogattam éppen nyolcra,
-Rakosgattam fel a bögréket a polcra.
-Kettő van fületlen, de elölről szépek,
-Egészen olyanok, mint a többi épek.
-Csak a fületlen részt hátulra kell tenni,
-S nem kell azt a hibát úgy szemügyre venni.
-
-Most jut eszembe sok felebarátom,
-Hogyha képletesen fületlennek látom.
-Úgy teszem-e őket életem polcára,
-Hogy ne lássak mindig arra a hibára?
-Hanem csak a szépre, hanem csak a jóra?
-Mert ha így térek egykor nyugovóra,
-Akkor tesz el úgy az igazságos Isten,
-Ahogy a bögréket rakosgatom itt lenn,
-A mennyei polcra nagyirgalmú szemmel,
-Hátrafelé az én letörött fülemmel.
-
-… és az Úr hívására mi tovább álmodtunk egy különlegesen vendégszerető helyről, egy különleges helyen.
-Célunk, hogy a Szentlélek templomban rejlő adottságokat kihasználva, egy olyan új térrel, tevékenységgel gazdagodjunk, amely egyszerre szolgálja közösségeinket, rendezvényeink lebonyolítását és az idelátogatók igényeit.
-
-A Fületlen Bögre alapító tagjaiként fontosnak tartjuk, hogy a helyi közösség részei vagyunk. Múltunk-jelenünk-jövőnk ideköt minket, itt vagyunk otthon. Munkánkat szolgálatnak tekintjük és azt anyagi ellenszolgáltatás nélkül végezzük.
-
-Anyagi célunk, hogy önfenntartóak legyünk és emellett adományokat gyűjtsünk tulajdonosunk a – Várhelyi Vilmos Egyházközségi Alapítvány – javára.
-
-A kávézó egy nagyszerű lehetőség számunkra, hogy Isten szeretetét házigazdaként megélve, szolgáljunk másoknak. Legyen szó akár a mindennapokról, akár jeles alkalmakról.
-Mert
-
-„A szeretet művészet. Csodálatos képesség arra, hogy valaki kincseket hozzon elő a másikból és önmagából. Képesség arra, hogy az egység csodáját újrateremtsék, két élet harmóniáját megalkossák.” (Székely János, püspök)
-
-Jöjjön el hozzánk, hogy adhassunk, hogy adhassunk egy forró, tea ízű merengést, egy kávé illatú beszélgetést. Engedje, hogy megterítsünk baráti beszélgetéseihez, alkalmi találkozásaihoz, üres perceihez. Adjon lehetőséget, hogy nagylelkűségét tovább adományozzuk.
-
-Mi már alig várjuk a találkozást!
-
-Szeretettel:
-
-A fületlen Bögre alapító közössége (Marci, Nóri, Meli, Edit, Ottó) és munkatársaik
-
-MERT BOLDOGNAK LENNI NEM AZT JELENTI, HOGY MINDEN TÖKÉLETES! 🙂
-
-https://www.facebook.com/fuletlenbogrekavezo/
-
-## Miserend 
-
+Gombok
+További információ
 Miserend
-Miserend
+Kapcsolat
+## Köszöntő szekció
+Örülünk, hogy itt vagy!
 
-Szeretettel várjuk testvéreinket szentmiséinkre és közös imádságainkra.
+A Veresegyházi Szentlélek Templom közösségének célja, hogy minden ember számára lehetőséget biztosítson Isten megismerésére, a lelki feltöltődésre és a valódi közösségi kapcsolatok kialakítására. Hisszük, hogy a hit nem csupán a templom falai között él, hanem mindennapi életünk része lehet.
 
-Vasárnapi szentmisék
-8:00 - Reggeli szentmise
-10:00 - Ünnepi nagymise
+## Új látogatóknak
+Először jársz nálunk?
+
+Talán kérdéseid vannak arról, mire számíthatsz egy szentmisén vagy közösségi alkalmon. Szeretnénk, ha már az első pillanattól otthon éreznéd magad. Közösségünk mindenkit szeretettel fogad, és örömmel segít eligazodni programjaink, szolgálataink és eseményeink között.
+
+## Küldetésünk
+Miért vagyunk itt?
+
+Küldetésünk, hogy Krisztus szeretetét megéljük és továbbadjuk. Arra törekszünk, hogy a hit, a remény és a szeretet értékei által építsük közösségünket, támogassuk egymást, és szolgáljuk városunkat.
+
+## Közösségeink
+Kapcsolódj be!
+
+A templomi élet több, mint a vasárnapi találkozások. Közösségeink lehetőséget nyújtanak barátságok kialakítására, közös imádságra, lelki fejlődésre és a szolgálat örömének megtapasztalására.
+
+Ifjúsági közösség
+Családi közösség
+Imaalkalmak
+Biblikus beszélgetések
+Önkéntes szolgálatok
+Események
+Csatlakozz közelgő programjainkhoz
+
+Egész évben számos eseménnyel, lelki nappal, közösségi alkalommal és ünnepi programmal várjuk az érdeklődőket. Kövess bennünket, és találd meg azt a programot, amely segíthet közelebb kerülni Istenhez és a közösséghez.
+
+## Napi ige szekció
+Isten igéje minden napra
+
+A Szentírás ma is megszólít bennünket. Fedezd fel nap mint nap Isten bátorító üzenetét, és meríts erőt a mindennapok kihívásaihoz.
+
+## Szolgálat
+Használd ajándékaidat!
+
+Mindannyian kaptunk olyan képességeket és ajándékokat, amelyekkel másokat szolgálhatunk. Legyen szó technikai segítségről, gyermekekkel való foglalkozásról, zenéről vagy szervezésről, örömmel várjuk azokat, akik szívesen bekapcsolódnának a közös munkába.
+
+## Kapcsolat szekció
+Vegyük fel a kapcsolatot!
+
+Kérdésed van? Szeretnél többet megtudni közösségünkről? Fordulj hozzánk bizalommal. Örömmel segítünk, és várunk személyesen is a Veresegyházi Szentlélek Templomban.
+
+## Lábléc szöveg
+
+Vedd fel velünk a kapcsolatot
+
+Örömmel válaszolunk kérdéseidre és segítünk, ha többet szeretnél megtudni közösségünkről.
+
+📍 Veresegyház
+
+📞 +36 XX XXX XXXX
+
+✉️ info@pelda.hu
+
+🕒 Iroda nyitvatartása: Hétfő-Péntek 9:00-16:00
+
+
+## Történetünk
+<p>Veresegyház Pest vármegye egyik legrégebbi települése, amelynek gyökerei egészen a tatárjárás előtti időkre nyúlnak vissza. A hagyomány szerint a település nevét egy vörös téglából épült templomról kapta, amely a pusztítások után is meghatározó jelképe maradt a környéknek.</p>
+
+<p>Az első írásos emlékek a 14. századból származnak, amikor Veresegyház különböző nemesi családok és egyházi birtokok tulajdonában állt. A középkor során a település fontos szerepet töltött be a térség életében, és temploma már ekkor a helyi közösség lelki központjaként szolgált.</p>
+
+<p>A török hódoltság idején a falu ugyan nem pusztult el teljesen, lakói azonban a református hit felé fordultak. A templom hosszú időn keresztül protestáns használatban volt, míg 1719-ben a katolikus egyház visszavette és újjászervezte a plébániát. Ettől kezdve ismét a katolikus közösség lelki otthonává vált.</p>
+
+<p>A régi templom az évszázadok során egyre szűkebbnek bizonyult a folyamatosan növekvő lakosság számára. Ezért Migazzi Kristóf váci püspök kezdeményezésére a 18. század végén megépült a ma is álló templom, amelyet 1778-ban szenteltek fel. Az épület copf stílusban készült, és máig Veresegyház egyik legjelentősebb műemléke.</p>
+
+<p>Templomunk védőszentje Árpád-házi Szent Erzsébet, akinek életpéldája ma is a szeretet, az alázat és a szolgálat fontosságára emlékeztet bennünket. A templom falai között generációk keresztelkedtek, kötöttek házasságot és találtak lelki otthonra.</p>
+
+<p>Napjainkban a Veresegyházi Szentlélek közösség arra törekszik, hogy a gazdag történelmi örökségre építve élő, befogadó és Krisztus-központú közösséget építsen. Templomunk nemcsak a múlt emlékeit őrzi, hanem a jelen és a jövő találkozási pontja is, ahol mindenki szeretettel találhat otthonra.</p>
+
+A Veresegyházi Szentlélek Templom
+
+A Veresegyházi Szentlélek Templom évek óta szolgálja a város és a környező települések híveit. Közösségünk célja, hogy otthont nyújtson mindazok számára, akik szeretnének közelebb kerülni Istenhez, elmélyíteni hitüket vagy egyszerűen egy befogadó közösségre találni.
+
+Templomunk nem csupán az imádság helye, hanem olyan találkozási pont is, ahol generációk kapcsolódhatnak egymáshoz, megoszthatják tapasztalataikat és együtt építhetik a közösség életét. Hisszük, hogy a hit, a szeretet és az összetartozás ereje ma is képes formálni mindennapjainkat.
+
+## Fületlen Bögre Kávézó
+Több mint egy kávézó
+
+A Fületlen Bögre Kávézó egy különleges találkozási hely, ahol a finom kávé és tea mellett lehetőség nyílik beszélgetésekre, kapcsolatépítésre és közösségi együttlétekre.
+
+Célunk egy nyugodt, barátságos környezet megteremtése, ahol minden betérő vendég otthon érezheti magát. Legyen szó egy gyors kávéról, baráti találkozóról vagy egy csendes pillanatról, a kávézó mindenkit szeretettel vár.
+
+Nyitvatartás
+Hétfő-Péntek: 07:00-19:00
+Szombat: 08:00-20:00
+Vasárnap: 08:00-18:00
+
+
+## Miserend
+Szentmisék és liturgikus alkalmak
+
+Szeretettel várunk mindenkit közösségünk szentmiséin és egyéb lelki alkalmain.
+
+Vasárnap
+08:00 - Reggeli szentmise
+10:00 - Ünnepi szentmise
 18:00 - Esti szentmise
-Hétköznapi szentmisék
+Hétköznap
 Hétfő-Péntek: 18:00
-Szombat: 18:00 (előesti szentmise)
 Gyóntatás
-
-A szentmisék előtt és külön egyeztetett időpontban.
-
-Kérjük, az aktuális változásokról és ünnepi miserendről kövesse hirdetéseinket.
-
-(Ezeket az időpontokat majd a valódi miserenddel kell helyettesíteni.)
-
-Veresegyház
-## Veresegyház
-
-Veresegyház Pest vármegye egyik gyorsan fejlődő városa, amely gazdag történelmi és közösségi hagyományokkal rendelkezik. A város különleges értéke az itt élő emberek összetartó közössége, valamint a természeti és kulturális környezet harmóniája.
-
-A Veresegyházi Szentlélek Templom fontos szerepet tölt be a város vallási és közösségi életében. Templomunk szeretettel fogadja a helyi lakosokat, a környékről érkező híveket és az ide látogató vendégeket egyaránt.
-
-Célunk, hogy a hit, a közösség és a szolgálat értékeit továbbadjuk a következő generációk számára.
-
-A kezdőoldalra nagyon szépen mutatna még egy rövid jelmondat is a fejlécben:
-
-„A hit otthona Veresegyház szívében.”
-
-vagy
-
-„Nyitott kapukkal, nyitott szívvel várunk.”
-
-vagy
-
-„Közösségben Istennel és egymással.” ✨
+Minden szentmise előtt 30 perccel.
 
 ## Napi igevers 
 2026. október 4. – Évközi 27. vasárnap (Mt 21,33-43)

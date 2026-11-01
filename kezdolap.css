@@ -1,4 +1,6 @@
 *{
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
 h2{
@@ -6,10 +8,7 @@ text-align: center;
 
 }
 
-#koszontes{
-  text-align: center;
 
-}
 #motto{
 
 
@@ -22,11 +21,11 @@ nav{
     align-items: center;
     gap: 30px;
     padding: 20px 50px;
-    background-color: #353847;
+    background-color: #F8F5F1 /* krém */ ;
 }
-nav ul li{
-    display:inline-block;
-    text-align: left;
+
+.menu-item{
+    color: #4A3428   /* kávébarna */;
 }
 .nav-bal{
     display: flex;
@@ -41,19 +40,87 @@ nav ul li{
 
 
 /* Hero-img*/
-body, html {
-  height: 100%;
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+html{
+    font-family: "proxima_nova";
+    src: url(https://interactivefonts.life.church/proximanova-thin-webfont.woff2) format("woff2"), url(https://interactivefonts.life.church/proximanova-thin-webfont.woff) format("woff"), 
+    url(https://interactivefonts.life.church/proximanova-thin-webfont.ttf) format("truetype");
+    font-size: 18px;
+
+}
+#hero{
+width: 100%;
+height: 100vh /*A teljes weboldal magasságot megkapja hogy kitöltse*/;
+background:linear-gradient(rgba(0, 0, 0, 0.101),rgba(0, 0, 0, 0.461))/*overlay*/  ,url(PICS/Bemutatkozás.jpg)no-repeat center / cover;/* Így lehet egysorban megadni a backgroundnak a tulajdonságokat*/
+color: rgb(243, 241, 238);
+}
+.hero-text{
+    text-align: justify;
+    width: 90%;
+    height: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column/*Egymás alá helyezi a szöveget*/;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+.hero-text h1{
+    font-size: 3rem; /*18px*3*/
+    margin-bottom: 1rem;
+    font-weight: 800;
+}
+.hero-text p{
+    font-size: 1.2rem;
+    max-width: 1025px;
+    
+}
+.hero-text a{
+    text-decoration: none;
+    display: inline-block;
+    background-color: white;
+    border-radius: 4px;
+    font-size: 1.8rem;
+    padding: 0.5em 1.3em;/*Tutorial alapjan*/
+    color: rgb(201, 124, 30);
+    
 }
 
-.hero-image{
-  background-image: url(PICS/Bemutatkozás.jpg) ;
-  height: 80%;
-  width: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-
-
+/*SECTIONS*/
+#col1{
+    display: block;
+    text-align: justify;
+    padding: 50px;
+    margin-right: 10px;
+}
+#col1 h2{
+    text-align: left;
+}
+#col2 img{
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    width: 500px;
+}
+.info-buttons{
+    color: white;
+    background-color: #000000 ;
+    border-radius: 25px;
+}
+#btn-text{
+    padding: 9px;
+}
+#our-mission{
+    height: 100%;
+    width:100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#community{
+    height: 100%;
+    width: 100%;
+}
+.community p{
+    max-width: 400px;
 }

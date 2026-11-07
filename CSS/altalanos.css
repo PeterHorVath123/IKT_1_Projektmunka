@@ -36,3 +36,15 @@ nav{
     height: 165px;
     max-width:100%;
 }
+footer{
+    border: 5px solid black;
+}
+footer p,h2{
+    display: flex;
+    justify-content: center;
+
+}
+footer ul{
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -66,13 +66,17 @@ Egy reszponzív jól kinéző weboldal létrehozása. Amelyet később tovább t
 3. Nap 
     - AI brainstorm a kezdőlaphoz
     - Ötlet az egyik gomb oldalon belüli hovatkozás legyen ami a miserendre mutat.
-        - Új vagy nálunk rész ul-je tartalmazza a Mikor kezdődik a szentmise?
-                                                  Hol tudok parkolni?
-                                                  Mit érdemes tudnom első látogatáskor?
-        
+        - Új vagy nálunk rész ul-je tartalmazza a 
+                Mikor kezdődik a szentmise?
+                 Hol tudok parkolni?
+                 Mit érdemes tudnom első látogatáskor?
+    - Kezdőlap kész de nem valami szép
+    - Miserend táblázat
+    - Történetünk (Kezdetleges)    
 
 - A képek forrása: https://onkormanyzati.tv/onkormanyzatok/veresegyhaz-onkormanyzata/
                     https://veresegyhaz.vaciegyhazmegye.hu/
                     https://gotourist.hu/hu/locations/szentl-eacute-lek-templom-1667
                     https://www.life.church/
+                    https://miserend.hu/templom/63
 - [Github page](https://peterhorvath123.github.io/IKT_1_Projektmunka/)

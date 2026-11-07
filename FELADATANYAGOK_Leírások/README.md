@@ -63,6 +63,13 @@ Egy reszponzív jól kinéző weboldal létrehozása. Amelyet később tovább t
 2. Nap
     - Megcsináltam a hero szekciót 
     - Majd a törtétnetet csináltam meg
+3. Nap 
+    - AI brainstorm a kezdőlaphoz
+    - Ötlet az egyik gomb oldalon belüli hovatkozás legyen ami a miserendre mutat.
+        - Új vagy nálunk rész ul-je tartalmazza a Mikor kezdődik a szentmise?
+                                                  Hol tudok parkolni?
+                                                  Mit érdemes tudnom első látogatáskor?
+        
 
 - A képek forrása: https://onkormanyzati.tv/onkormanyzatok/veresegyhaz-onkormanyzata/
                     https://veresegyhaz.vaciegyhazmegye.hu/

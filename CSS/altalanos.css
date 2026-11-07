@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h2{
+text-align: center;
+
+}
+
+
+#motto{
+
+
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    padding: 20px 50px;
+    background-color: #F8F5F1 /* krém */ ;
+}
+
+.menu-item{
+    color: #4A3428   /* kávébarna */;
+}
+.nav-bal{
+    display: flex;
+
+}
+
+#logo{
+    height: 165px;
+    max-width:100%;
+}

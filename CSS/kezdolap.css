@@ -1,42 +1,3 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-h2{
-text-align: center;
-
-}
-
-
-#motto{
-
-
-}
-
-
-nav{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 30px;
-    padding: 20px 50px;
-    background-color: #F8F5F1 /* krém */ ;
-}
-
-.menu-item{
-    color: #4A3428   /* kávébarna */;
-}
-.nav-bal{
-    display: flex;
-
-}
-
-#logo{
-    height: 165px;
-    max-width:100%;
-    border-radius: 50%;
-}
 
 
 /* Hero-img*/
@@ -50,7 +11,7 @@ html{
 #hero{
 width: 100%;
 height: 100vh /*A teljes weboldal magasságot megkapja hogy kitöltse*/;
-background:linear-gradient(rgba(0, 0, 0, 0.101),rgba(0, 0, 0, 0.461))/*overlay*/  ,url(PICS/Bemutatkozás.jpg)no-repeat center / cover;/* Így lehet egysorban megadni a backgroundnak a tulajdonságokat*/
+background:linear-gradient(rgba(0, 0, 0, 0.101),rgba(0, 0, 0, 0.461))/*overlay*/  ,url(../PICS/Bemutatkozás.jpg)no-repeat center / cover;/* Így lehet egysorban megadni a backgroundnak a tulajdonságokat*/
 color: rgb(243, 241, 238);
 }
 .hero-text{

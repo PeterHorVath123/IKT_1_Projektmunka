@@ -57,18 +57,15 @@ Egy reszponzív jól kinéző weboldal létrehozása. Amelyet később tovább t
 ## Dokumentácio
 - Az összes szöveg ami a weblapon megtalálható a FORRAS.md-ben található
 - A weboldal több napon át csináltam valamikor kevesebbet valamikor többet foglalkoztam vele
-- Első napon nem tudtam merre induljak ezért el kezdetm csinálni a navot
-- Később az AI segítségével egy kis útmutatást kaptam
-- Majd megcsináltam a vázat
-- Majd a hero szekciót
-- Majd a kezdőlapot kezdetem el
-- Majd a törtétnetet csináltam meg
-- Mivel kifutottam az időből ezért hátra maradt a miserend és a Fületlen bögre és a kezdőlap befejezése és a napi ige.
-- A láblécet se tudtam megcsinálni
-- Az oldal minimálisan reszponzív
+1. Nap
+    - Majd megcsináltam a vázat
+    - Majd a kezdőlapot kezdetem el
+2. Nap
+    - Megcsináltam a hero szekciót 
+    - Majd a törtétnetet csináltam meg
+
 - A képek forrása: https://onkormanyzati.tv/onkormanyzatok/veresegyhaz-onkormanyzata/
                     https://veresegyhaz.vaciegyhazmegye.hu/
                     https://gotourist.hu/hu/locations/szentl-eacute-lek-templom-1667
                     https://www.life.church/
-- Sajnálom tanár úr
 - [Github page](https://peterhorvath123.github.io/IKT_1_Projektmunka/)

@@ -39,6 +39,20 @@ nav{
     max-width:100%;
 }
 
+footer p{
+    display: flex;
+    justify-content: center;
+
+}
+footer h2{
+     display: flex;
+    justify-content: center;
+}
+footer ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
 
 
 

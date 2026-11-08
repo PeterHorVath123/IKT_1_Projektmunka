@@ -2,19 +2,26 @@
     margin: 0 auto;
     text-align: center;
 }
-h2,h3{
-    text-align: center;
-    font-size: xx-large;
-    margin: 10px;
+.all-article {
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
 }
-p{
-    font-size: x-large;
-    padding: 5px;
+
+.all-article > h1, .box {
+  margin: 10px;
+  padding: 5px;
 }
-img{
-    height: 700px ;
-    width: 100% ;
+
+.box {
+  background: white;
 }
-#one,#two{
-    border: 5px solid black;
+
+.box > h2, p {
+  margin: 4px;
+  font-size: 120%;
+  font-weight: 700;
+}
+.row{
+    gap: 25px;
 }

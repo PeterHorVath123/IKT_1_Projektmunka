@@ -75,23 +75,29 @@ Vedd fel velünk a kapcsolatot
 
 
 ## Történetünk
-<p>Veresegyház Pest vármegye egyik legrégebbi települése, amelynek gyökerei egészen a tatárjárás előtti időkre nyúlnak vissza. A hagyomány szerint a település nevét egy vörös téglából épült templomról kapta, amely a pusztítások után is meghatározó jelképe maradt a környéknek.</p>
-
-<p>Az első írásos emlékek a 14. századból származnak, amikor Veresegyház különböző nemesi családok és egyházi birtokok tulajdonában állt. A középkor során a település fontos szerepet töltött be a térség életében, és temploma már ekkor a helyi közösség lelki központjaként szolgált.</p>
-
-<p>A török hódoltság idején a falu ugyan nem pusztult el teljesen, lakói azonban a református hit felé fordultak. A templom hosszú időn keresztül protestáns használatban volt, míg 1719-ben a katolikus egyház visszavette és újjászervezte a plébániát. Ettől kezdve ismét a katolikus közösség lelki otthonává vált.</p>
-
-<p>A régi templom az évszázadok során egyre szűkebbnek bizonyult a folyamatosan növekvő lakosság számára. Ezért Migazzi Kristóf váci püspök kezdeményezésére a 18. század végén megépült a ma is álló templom, amelyet 1778-ban szenteltek fel. Az épület copf stílusban készült, és máig Veresegyház egyik legjelentősebb műemléke.</p>
-
-<p>Templomunk védőszentje Árpád-házi Szent Erzsébet, akinek életpéldája ma is a szeretet, az alázat és a szolgálat fontosságára emlékeztet bennünket. A templom falai között generációk keresztelkedtek, kötöttek házasságot és találtak lelki otthonra.</p>
-
-<p>Napjainkban a Veresegyházi Szentlélek közösség arra törekszik, hogy a gazdag történelmi örökségre építve élő, befogadó és Krisztus-központú közösséget építsen. Templomunk nemcsak a múlt emlékeit őrzi, hanem a jelen és a jövő találkozási pontja is, ahol mindenki szeretettel találhat otthonra.</p>
-
-A Veresegyházi Szentlélek Templom
-
-A Veresegyházi Szentlélek Templom évek óta szolgálja a város és a környező települések híveit. Közösségünk célja, hogy otthont nyújtson mindazok számára, akik szeretnének közelebb kerülni Istenhez, elmélyíteni hitüket vagy egyszerűen egy befogadó közösségre találni.
-
-Templomunk nem csupán az imádság helye, hanem olyan találkozási pont is, ahol generációk kapcsolódhatnak egymáshoz, megoszthatják tapasztalataikat és együtt építhetik a közösség életét. Hisszük, hogy a hit, a szeretet és az összetartozás ereje ma is képes formálni mindennapjainkat.
+A kezdetek és a középkor
+Veresegyház története egészen a tatárjárás előtti időkre nyúlik vissza. A település valószínűleg már a 13. század előtt is létezett, azonban a tatárjárás pusztításai következtében elnéptelenedett. A hagyomány szerint nevét egy vörös téglából épült templomról kapta, amely a pusztítás után is megmaradt, és az újjátelepülő közösség számára fontos tájékozódási pontot jelentett.
+A település első írásos említése a 14. század végéről származik. A középkor során Veresegyház több nemesi család és egyházi birtokos kezébe került, miközben fokozatosan fejlődött. Már ekkor jelentős szerepet játszott a térség vallási és közösségi életében.
+A reformáció és a török kor évszázadai
+A 16. században Veresegyház már önálló plébániával rendelkezett, és kőből épült temploma toronnyal állt a település központjában. A török hódoltság időszaka alatt a falu ugyan nem pusztult el teljesen, de lakóinak jelentős része a református hitre tért át.
+A templom a református közösség használatába került, ugyanakkor a források szerint jó állapotban maradt. A 17. századi egyházi feljegyzések külön is megemlítik, hogy a templom tágas és jól karbantartott volt. A település a háborús időszakok ellenére tovább élt, és a vallási élet sem szakadt meg.
+A katolikus egyház újjászervezése
+A török kor lezárulását követően a katolikus egyház fokozatosan visszaszerezte korábbi szerepét Veresegyházon. 1719-ben a templom visszakerült a katolikus közösséghez, és újjászervezték a plébániát.
+A 18. század első felében a település népessége folyamatosan növekedett. A korabeli feljegyzések szerint a régi templom már túl kicsinek bizonyult a hívek számára. Bár az épület jó állapotban volt, a közösség létszámának növekedése egyre sürgetőbbé tette egy nagyobb templom építését.
+A Szent Erzsébet-templom építése
+A régi templom helyére Migazzi Kristóf váci püspök kezdeményezésére új templom épült. Az építkezés során a korábbi templom szentélyét megtartották, és erre alapozva emelték fel az új épületet.
+A mai Árpád-házi Szent Erzsébet-templomot 1778-ban szentelték fel. A copf stílusban épült templom hamar a település egyik meghatározó épületévé vált. Értékes művészeti emlékei közé tartozik a főoltár képe, amely Johann Martin Schmidt alkotása, valamint több régi liturgikus tárgy és miseruha.
+Az épületet az évszázadok során többször felújították és korszerűsítették, miközben megőrizte történelmi és művészeti értékeit.
+A 20. század és a gyarapodó közösség
+A 20. század második felében Veresegyház gyors fejlődésnek indult. A település lakossága jelentősen növekedett, ezzel együtt pedig a plébániai közösség is egyre nagyobb lett.
+A Szent Erzsébet-templomot 1958 és 1980 között teljes körűen felújították. A plébánia életében fontos szerepet játszott a közösségi élet erősítése, valamint a környező települések lelkipásztori ellátása is.
+A Szentlélek-templom megszületése
+A 21. század elejére Veresegyház lakossága meghaladta a 18 000 főt. Az 1778-ban épült templom már nem tudta maradéktalanul kiszolgálni a megnövekedett közösség igényeit, ezért a város vezetése és az egyházközség egy új templom építése mellett döntött.
+Az új Szentlélek-templom terveit Nagy László építész készítette. Az épület különleges, kör alaprajzú kialakítást kapott, amely a keresztény közösség egységét és az örökkévalóságot jelképezi.
+A templomot 2016-ban szentelte fel Beer Miklós váci megyéspüspök. Az épület mintegy 400 hívő befogadására alkalmas, kupolája 20 méter átmérőjű, tornya pedig 31 méter magas.
+Templomunk napjainkban
+Napjainkban a Veresegyházi Szentlélek-templom nemcsak a város katolikus közösségének lelki otthona, hanem kulturális és közösségi események helyszíne is. A modern épület kialakítása lehetővé teszi, hogy a liturgikus alkalmak mellett koncertek, előadások és közösségi programok is helyet kapjanak falai között.
+A templom belső terének egyik legmeghatározóbb eleme a főoltár fölött látható Krisztus-szobor, valamint a tizenkét apostolt megjelenítő oszlopsor. A Szentlélek-templom ma Veresegyház egyik legismertebb jelképe, amely egyszerre őrzi a keresztény hagyományokat és szolgálja a jelenkor közösségét.
 
 ## Fületlen Bögre Kávézó
 Több mint egy kávézó

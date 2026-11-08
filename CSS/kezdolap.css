@@ -125,17 +125,3 @@ a:hover{
     justify-content: flex-end;
 }
 
-footer p{
-    display: flex;
-    justify-content: center;
-
-}
-footer h2{
-     display: flex;
-    justify-content: center;
-}
-footer ul{
-    display: flex;
-    justify-content: space-evenly;
-}
-

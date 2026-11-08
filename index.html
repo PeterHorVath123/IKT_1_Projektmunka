@@ -21,11 +21,11 @@
       <a class="menu-item" href="fuletelenbogrekavezo.html">Fületlen Bögre Kávézó</a>
     </div>
     <div class="nav-logo">
-      <img src="PICS/Logo.png" alt="Veresegyház Szentlélek templom" id="logo" />
+      <img src="PICS/Logo.png" title="Veresegyház Szentlélek templom" alt="Veresegyház Szentlélek templom" id="logo" />
     </div>
     <div class="nav-jobb">
       <div class="form-floating">
-        <label for="floatingInput">Kersés</label>
+        <label for="floatingInput">Keresés</label>
         <input type="search" class="form-control" id="floatingInput" placeholder="Keress rá valamire...." />
       </div>
     </div>
@@ -33,13 +33,13 @@
   <header>
     <div id="hero">
       <div class="hero-text">
-        <h1>Nem kell egyedül végigmenned az úton</h1>
+        <h1>Nem kell egyedül végigmenned az úton!</h1>
         <p>
           Akár először jársz nálunk, akár régóta keresed a helyed, közösségünk
           nyitott szívvel vár. Kapcsolódj hozzánk, építs kapcsolatokat és
           növekedj hitben velünk együtt.
         </p>
-        <a href="">Miserend</a>
+        <a id="mise" href="">Miserend</a>
       </div>
   </header>
   </div>
@@ -55,15 +55,31 @@
             Hisszük, hogy a hit nem csupán a templom falai között él, hanem
             mindennapi életünk része lehet.
           </p>
+          <style>
+            .info-buttons {
+              color: white;
+              background-color: #000000;
+              border-radius: 25px;
+            }
+
+            #btn-text {
+              padding: 9px;
+            }
+           .info-buttons a{
+            text-decoration: none;
+            color: white;
+           }
+          
+          </style>
           <button class="info-buttons">
-            <b id="btn-text">Tudj meg többet</b>
+            <a href="történetünk.html"><b id="btn-text">Tudj meg többet</b></a>
           </button>
           <button class="info-buttons">
-            <b id="btn-text">Ismerj meg minket</b>
+            <a href="#card2"><b id="btn-text">Közösségeink</b></a>
           </button>
         </div>
         <div class="col" id="col2">
-          <img src="PICS/video_kitoltő.jpg" alt="" />
+          <img src="PICS/video_kitoltő.jpg" title="video_kitoltő" alt="video_kitoltő" />
         </div>
       </div>
     </section>
@@ -86,7 +102,7 @@
     <article class="article-felx">
       <h2>Közösségi élet</h2>
       <section class="card" id="card1" style="max-width: 320px">
-        <img src="PICS/OIG2.jpg" class="card-img-top" alt="..." />
+        <img src="PICS/OIG2.jpg" class="card-img-top" title="Közösségi élet" alt="Közösségi élet" />
         <div class="card-body">
           <h4 class="card-title">Ifjúsági Közösség</h4>
           <p class="card-text">
@@ -95,19 +111,19 @@
             ahol a hit, a barátság és a jó hangulat találkozik.
             Egy hely, aholkérdezhetsz, fejlődhetsz és új barátokra találhatsz.
           </p>
-          <a href="#" class="btn-solid theme-primary">Érdekel</a>
+          <a href="#" class="btn-solid theme-inverse">Érdekel</a>
         </div>
       </section>
 
       <section class="card" id="card2" style="max-width: 320px">
-        <img src="PICS/CSalád.jpg" class="card-img-top" alt="..." />
+        <img src="PICS/CSalád.jpg" class="card-img-top" title="Családos Közösség" alt="Családos Közösség" />
         <div class="card-body">
           <h4 class="card-title">Családos Közösség</h4>
           <p class="card-text">
             A családok számára fontos, hogy legyen egy támogató közeg, ahol megoszthatják
             tapasztalataikat és együtt erősödhetnek hitükben. Közös programokkal és találkozásokkal várjuk a
             családokat.</p>
-          <a href="#" class="btn-solid theme-primary">Érdekel</a>
+          <a href="#" class="btn-solid theme-inverse">Érdekel</a>
         </div>
       </section>
 
@@ -115,15 +131,15 @@
 
 
       <section class="card" id="card3" style="max-width: 320px">
-        <img src="PICS/öNKÉNTES.jpg" class="card-img-top" alt="..." />
+        <img src="PICS/öNKÉNTES.jpg" class="card-img-top" title="Önkéntes Szolgálatok" alt="Önkéntes Szolgálatok" />
         <div class="card-body">
           <h4 class="card-title">Önkéntes Szolgálatok</h4>
           <p class="card-text">
             Közösségünk számos területen számít az önkéntesek segítségére. Legyen szó rendezvényekről, technikai
-            szolgálatról vagy karitatív munkáról, mindenki megtalálhatja a helyét a szolgálatban. Gyerehozzánk segíts
-            velünk.
+            szolgálatról vagy karitatív munkáról, mindenki megtalálhatja a helyét a szolgálatban. Gyere hozzánk, segíts
+            velünk!
           </p>
-          <a href="#" class="btn-solid theme-primary">Érdekel</a>
+          <a href="#" class="btn-solid theme-inverse">Érdekel</a>
         </div>
       </section>
 
@@ -134,27 +150,27 @@
       <div class="card theme-secondary" style="width: 18rem;">
         <div class="card-body">
           <img src="PICS/Adventi.jpg" alt="">
-          <h4 class="card-title">📅 Adventi koncer</h4>
+          <h4 class="card-title">📅 Adventi koncert</h4>
           <p class="card-text"> 2026.december 12.</p>
-          <a href="#" class="btn-solid theme-primary">Részletek</a>
+          <a href="#" class="btn-solid theme-inverse">Részletek</a>
         </div>
       </div>
 
       <div class="card theme-secondary" style="width: 18rem;">
         <div class="card-body">
-          <img src="PICS/Ifjúsági2.jpg" alt="">
+          <img src="PICS/Ifjúsági2.jpg" title="Ifjúsági est" alt="Ifjúsági est">
           <h4 class="card-title">📅 Ifjúsági est</h4>
           <p class="card-text">2026.december 18.</p>
-          <a href="#" class="btn-solid theme-primary">Részletek</a>
+          <a href="#" class="btn-solid theme-inverse">Részletek</a>
         </div>
       </div>
 
       <div class="card theme-secondary" style="width: 18rem;">
         <div class="card-body">
-          <img src="PICS/Kavezas.jpg" alt="">
+          <img src="PICS/Kavezas.jpg" title="Közösségi kávézás" alt="Közösségi kávézás">
           <h4 class="card-title">📅 Közösségi kávézás</h4>
           <p class="card-text">december 20.</p>
-          <a href="#" class="btn-solid theme-primary">Részletek</a>
+          <a href="#" class="btn-solid theme-inverse">Részletek</a>
         </div>
       </div>
 

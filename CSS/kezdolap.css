@@ -66,14 +66,7 @@ color: rgb(243, 241, 238);
     padding: 50px;
     width: 500px;
 }
-.info-buttons{
-    color: white;
-    background-color: #000000 ;
-    border-radius: 25px;
-}
-#btn-text{
-    padding: 9px;
-}
+
 
 /*Új vagy nálunk*/
 #new-to-us{
@@ -100,21 +93,28 @@ color: rgb(243, 241, 238);
 }
 
 .article-felx{
-    border: 8px solid black;
     width: 100%;
     height: auto;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
-
+#mise:hover{
+    background-color: #e6ccb2;
+}
+button:active{
+    background-color: #e6ccb2;
+}
+a:hover{
+    background-color: #e6ccb2;
+}
 .card{
-    height: 489px;
+    height: 100%;
 
 }
 
 .section-felx{
-    border: 8px solid black;
+    
     width: 100%;
     height: auto;
     display: flex;
@@ -125,4 +125,17 @@ color: rgb(243, 241, 238);
     justify-content: flex-end;
 }
 
+footer p{
+    display: flex;
+    justify-content: center;
+
+}
+footer h2{
+     display: flex;
+    justify-content: center;
+}
+footer ul{
+    display: flex;
+    justify-content: space-evenly;
+}
 

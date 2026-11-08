@@ -73,7 +73,10 @@ Egy reszponzív jól kinéző weboldal létrehozása. Amelyet később tovább t
     - Kezdőlap kész de nem valami szép
     - Miserend táblázat
     - Történetünk (Kezdetleges)    
-
+4. Nap
+    - Ai segítségével ötleteket generáltam
+    - Néhány ötletet megvalósítottam amit adott és az enyémeimet is amik voltak
+    - Responzivitás hiányzik
 - A képek forrása: https://onkormanyzati.tv/onkormanyzatok/veresegyhaz-onkormanyzata/
                     https://veresegyhaz.vaciegyhazmegye.hu/
                     https://gotourist.hu/hu/locations/szentl-eacute-lek-templom-1667
